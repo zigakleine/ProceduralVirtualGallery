@@ -1,4 +1,13 @@
 /* this is the main css */
 #button {
-    /*display: none;*/
+    display: none;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+canvas {
+    display: block;
 }
