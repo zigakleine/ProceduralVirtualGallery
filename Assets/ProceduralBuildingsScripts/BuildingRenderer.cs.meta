@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6a164905d15b34df3ac87206be81d964
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {instanceID: 0}
+  - emptyWallPrefab: {instanceID: 0}
+  - windowWallPrefab: {instanceID: 0}
+  - imageWallPrefab: {instanceID: 0}
+  - doorPrefab: {instanceID: 0}
+  - material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
