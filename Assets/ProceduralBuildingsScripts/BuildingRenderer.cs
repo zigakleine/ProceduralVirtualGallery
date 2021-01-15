@@ -416,7 +416,7 @@ public class BuildingRenderer : MonoBehaviour
                     material.mainTexture = texture;
                     Transform plane = blockWalls[wallNum].GetChild(0);
                     plane.localRotation = Quaternion.Euler(90f, 0f, 0f);
-                    plane.localScale = new Vector3(scaleX, 1.0f, scaleZ);     
+                    plane.localScale = new Vector3(1.0f, scaleX, scaleZ);     
                     plane.GetComponent<Renderer>().material = material;
                 }
 
